@@ -1,0 +1,7 @@
+name: UGLYPLANET
+
+markdown: redcarpet
+pygments: true
+
+root_url: http://diegobeauroyre.github.io/uglyplanet
+
